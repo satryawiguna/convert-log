@@ -1,0 +1,10 @@
+{
+    "require": {
+        "symfony/console": "^4.4",
+        "tm/error-log-parser": "^1.2",
+      "ext-json": "*"
+    },
+    "autoload": {
+      "classmap": ["Commands"]
+    }
+}
